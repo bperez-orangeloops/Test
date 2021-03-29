@@ -3,7 +3,23 @@
     {
       "id":1,
       "title":"Take out the trash",
-se
+      "createdDate":1612968004,
+      "dueDate":1612996804,
+      "completed":true
+    },
+    {
+      "id":2,
+      "title":"Do the laundry",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "createdDate":1613054644,
+      "completed":false
+    },
+    {
+      "id":3,
+      "title":"Lorem ipsum",
+      "description":"Mauris auctor finibus justo, non euismod diam blandit a",
+      "createdDate":1613141166,
+      "completed":false
     }
   ]
 }
